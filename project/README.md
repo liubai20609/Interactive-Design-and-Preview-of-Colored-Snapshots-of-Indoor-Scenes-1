@@ -23,9 +23,8 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 ```
 
 - Run the UI: `python ideepcolor.py`. 
-- 
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/project/myfile/UI.png?raw=true)
-```
+
 - User interactions
 
 - <b>Adding points</b>: Left-click somewhere on the input pad
