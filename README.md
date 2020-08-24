@@ -4,4 +4,4 @@
 2. project:Interactive rendering project
 3. renderdesign：rendering scheme
 
-<b>There are readme.md documentation in each folder</b>
+<b>There are readme.md documentation in each folder.</b>
