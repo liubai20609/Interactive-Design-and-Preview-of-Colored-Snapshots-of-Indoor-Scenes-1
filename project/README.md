@@ -2,7 +2,7 @@
 # Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
 
 
-We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>. We then describe the interactive colorization demo <b>(2) Interactive Colorization </b>. There are two demos: (a) 说明 (b) 演示
+We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>. We then describe the interactive colorization demo <b>(2) Interactive Colorization </b>. 
 
 
 ### (0) Prerequisites
@@ -38,18 +38,6 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 - <b>Restart</b>: Click on the restart button. All points on the pad will be removed.
 - <b>Ok</b>: Click on the ok button. After user interaction, this will Will run the recommendation and rendering program, and then show the rendering result.
 - <b>Quit</b>: Click on the quit button.
-
-
-### Installation
-- Install Caffe or PyTorch. The Caffe model is official. PyTorch is a reimplementation.
-
-  - Install Caffe: see the Caffe [installation](http://caffe.berkeleyvision.org/installation.html) and Ubuntu installation [document](http://caffe.berkeleyvision.org/install_apt.html). Please compile the Caffe with the python layer [support](https://chrischoy.github.io/research/caffe-python-layer/) (set `WITH_PYTHON_LAYER=1` in the `Makefile.config`) and build Caffe python library by `make pycaffe`.
-
-  You also need to add `pycaffe` to your `PYTHONPATH`. Use `vi ~/.bashrc` to edit the environment variables.
-  ```bash
-  PYTHONPATH=/path/to/caffe/python:$PYTHONPATH
-  LD_LIBRARY_PATH=/path/to/caffe/build/lib:$LD_LIBRARY_PATH
-  ```
 
 
 ```
