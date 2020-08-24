@@ -27,6 +27,7 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 
 - User interactions
 
+```
 - <b>Adding points</b>: Left-click somewhere on the input pad
 - <b>Moving points</b>: Left-click and hold on a point on the input pad, drag to desired location, and let go
 - <b>Changing colors</b>: For currently selected point, choose a recommended color (middle-left) or choose a color on the ab color gamut (top-left)
