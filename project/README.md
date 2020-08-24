@@ -2,7 +2,7 @@
 # Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
 
 
-We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>. We then describe the interactive colorization demo <b>(2) Interactive Colorization (Local Hints Network)</b>. There are two demos: (a) a "barebones" version in iPython notebook and (b) the full GUI we used in our paper. We then provide an example 
+We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>. We then describe the interactive colorization demo <b>(2) Interactive Colorization </b>. There are two demos: (a) 说明 (b) 演示
 
 
 ### (0) Prerequisites
@@ -21,7 +21,7 @@ git clone git@github.com:liubai20609/Interactive-Design-and-Preview-of-Colored-S
 Please refer to https://github.com/junyanz/interactive-deep-colorization
 ```
 
-- Run the UI: `python ideepcolor.py --gpu [GPU_ID]`. 
+- Run the UI: `python ideepcolor.py`. 
 ```
 
 
