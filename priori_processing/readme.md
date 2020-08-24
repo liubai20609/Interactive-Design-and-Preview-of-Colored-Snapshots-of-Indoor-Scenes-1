@@ -6,4 +6,4 @@ Program instructions：
 5. Sedian.py：Visualize all experts a priori color points in the excel table, and generate color points for color mapping under different color difference formulas.
 6. input_output.py：Specify a kind of furniture and its color, and output the probability of another kind of furniture and color under this condition.
 
-<b>Put the generated data into the corresponding location in the project folder</b>
+<b>Put the generated data into the corresponding location in the 'project' folder</b>
