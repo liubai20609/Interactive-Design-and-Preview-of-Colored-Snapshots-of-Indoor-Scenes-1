@@ -3,5 +3,5 @@ Program instructions：
 2. countColor.py：Read label1.csv to generate colorCount.npy for statistical conditional probability
 3. readColorPiece.py：Generate new gamut.jpg from 100color1.jpg
 4.jiajuColorChange.txt：The 10 most common colors in statistics
-5.Sedian.py，可视化excel表格所有专家先验颜色点，同时生成不同色差公式下颜色映射的颜色点。
+5.Sedian.py：Visualize all experts a priori color points in the excel table, and generate color points for color mapping under different color difference formulas.
 6. input_output.py：Specify a kind of furniture and its color, and output the probability of another kind of furniture and color under this condition.
