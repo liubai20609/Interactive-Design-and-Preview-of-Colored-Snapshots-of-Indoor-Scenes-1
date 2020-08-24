@@ -27,7 +27,7 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 
 - User interactions
 
-<img src='./myfile/UI.png' width=800>
+![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/project/myfile/UI.png?raw=true)
 
 - <b>Adding points</b>: Left-click somewhere on the input pad
 - <b>Moving points</b>: Left-click and hold on a point on the input pad, drag to desired location, and let go
