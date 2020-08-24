@@ -27,7 +27,7 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 
 - User interactions
 
-<img src='./imgs/pad.jpg' width=800>
+<img src='./myfile/UI.png' width=800>
 
 - <b>Adding points</b>: Left-click somewhere on the input pad
 - <b>Moving points</b>: Left-click and hold on a point on the input pad, drag to desired location, and let go
