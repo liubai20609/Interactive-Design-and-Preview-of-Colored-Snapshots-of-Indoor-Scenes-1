@@ -7,7 +7,7 @@ We first describe the system <b>(0) Prerequisities</b>.<b>(1) Getting started</b
 - Linux or OSX
 - PyTorch
 - CPU or NVIDIA GPU + CUDA CuDNN.
-- Install Caffe or PyTorch and 3rd party Python libraries (OpenCV, scikit-learn and scikit-image). See the https://github.com/junyanz/interactive-deep-colorization for more details.
+- Install PyTorch and 3rd party Python libraries (OpenCV, scikit-learn and scikit-image). See the https://github.com/junyanz/interactive-deep-colorization for more details.
 
 ### (1) Getting Started
 - Clone this repo:
