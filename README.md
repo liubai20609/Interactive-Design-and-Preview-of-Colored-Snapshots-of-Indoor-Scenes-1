@@ -1,7 +1,7 @@
 # Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/show.png?raw=true)
 
-We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>.  <b>(2) User interactions </b>. <b>(3) Supplement </b>. 
+We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>.  <b>(2) User interactions </b>. <b>(3) Supplement </b>. <b>(4) Acknowledgement </b>. 
 
 ### (0) Prerequisites
 - Linux or OSX
@@ -36,9 +36,13 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 
 
 ### (3) Supplement
+- <b>object-material-color combinations</b>
+The furniture, materials and colors used in the program can be modified according to the relationship in the picture below
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/pre-processing/connection%20relation.png?raw=true)
 1. priori_processing：Expert priori preprocessing rendering scheme
 2. project: Interactive rendering project
 3. renderdesign：rendering scheme
-
+- <b>In the preprocessing, we use the hexadecimal color code</b>
 <b>There are readme.md documentation in each folder.</b>
+### (3) Acknowledgement
+The colorization part of our code is built upon https://github.com/junyanz/interactive-deep-colorization.
