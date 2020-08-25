@@ -17,7 +17,7 @@ def input_furniture():
 input_furniture()
 print(furniture)
 furniture_numpy = []
-with open('renderdesign.csv','r') as f:
+with open('renderingtheme.csv','r') as f:
     reader = csv.reader(f)
     for row in reader:
         furniture_numpy.append(row)
