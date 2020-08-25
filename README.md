@@ -1,7 +1,7 @@
 # Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/show.png?raw=true)
 
-We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>.  <b>(2) User interactions </b>. <b>(3) Supplement </b>. <b>(4) Acknowledgement </b>. 
+We first describe the system <b>(0) Prerequisities</b>.<b>(1) Getting started</b>. <b>(2) User interactions </b>. <b>(3) Supplement </b>. <b>(4) Acknowledgement </b>. 
 
 ### (0) Prerequisites
 - Linux or OSX
@@ -44,5 +44,5 @@ The furniture, materials and colors used in the program can be modified accordin
 3. renderdesign：rendering scheme
 - <b>In the preprocessing, we use the hexadecimal color code</b>
 <b>There are readme.md documentation in each folder.</b>
-### (3) Acknowledgement
+### (4) Acknowledgement
 The colorization part of our code is built upon https://github.com/junyanz/interactive-deep-colorization.
