@@ -1,12 +1,7 @@
 # Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/show.png?raw=true)
 
-
-# Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
-
-
-We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>.  <b>(2) User interactions </b>. 
-
+We first describe the system <b>(0) Prerequisities</b> and steps for <b>(1) Getting started</b>.  <b>(2) User interactions </b>. <b>(3) Supplement </b>. 
 
 ### (0) Prerequisites
 - Linux or OSX
@@ -40,9 +35,7 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 - <b>Quit</b>: Click on the quit button.
 
 
-```
-
-
+### (2) Supplement
 
 1. priori_processing：Expert priori preprocessing rendering scheme
 2. project: Interactive rendering project
