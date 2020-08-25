@@ -36,13 +36,13 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 
 
 ### (3) Supplement
+1. pre-processing：Expert priori preprocessing rendering scheme
+2. project: Interactive rendering project
+3. renderdesign：rendering scheme
 - <b>object-material-color combinations</b>
 
 The furniture, materials and colors used in the program can be modified according to the relationship in the picture below
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/pre-processing/connection%20relation.png?raw=true)
-1. pre-processing：Expert priori preprocessing rendering scheme
-2. project: Interactive rendering project
-3. renderdesign：rendering scheme
 - <b>In the preprocessing, we use the hexadecimal color code</b>
 - <b>There are readme.md documentation in each folder.</b>
 ### (4) Acknowledgement
