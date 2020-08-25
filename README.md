@@ -37,7 +37,8 @@ Please refer to https://github.com/junyanz/interactive-deep-colorization
 
 ### (3) Supplement
 - <b>object-material-color combinations</b>
-- The furniture, materials and colors used in the program can be modified according to the relationship in the picture below
+
+The furniture, materials and colors used in the program can be modified according to the relationship in the picture below
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/pre-processing/connection%20relation.png?raw=true)
 1. pre-processing：Expert priori preprocessing rendering scheme
 2. project: Interactive rendering project
