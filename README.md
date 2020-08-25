@@ -1,7 +1,7 @@
 # Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes
 ![](https://github.com/liubai20609/Interactive-Design-and-Preview-of-Colored-Snapshots-of-Indoor-Scenes-1/blob/master/show.png?raw=true)
 
-We first describe the system <b>(0) Prerequisities</b>.<b>(1) Getting started</b>. <b>(2) User interactions </b>. <b>(3) Supplement </b>. <b>(4) Acknowledgement </b>. 
+We first describe the whole project <b>(0) Prerequisities</b>.<b>(1) Getting started</b>. <b>(2) User interactions </b>. <b>(3) Supplement </b>. <b>(4) Acknowledgement </b>. 
 
 ### (0) Prerequisites
 - Linux or OSX
