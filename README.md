@@ -7,7 +7,7 @@ We first describe the system <b>(0) Prerequisities</b>.<b>(1) Getting started</b
 - Linux or OSX
 - PyTorch
 - CPU or NVIDIA GPU + CUDA CuDNN.
-- Install PyTorch and 3rd party Python libraries (OpenCV, scikit-learn and scikit-image). See the [interactive-deep-colorization][1] for more details.
+- Install PyTorch and 3rd party Python libraries (OpenCV, scikit-learn and scikit-image). See the [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) for more details.
 
 ### (1) Getting Started
 - Clone this repo:
@@ -46,5 +46,4 @@ The furniture, materials and colors used in the program can be modified accordin
 - <b>In the preprocessing, we use the hexadecimal color code</b>
 - <b>There are readme.md documentation in each folder.</b>
 ### (4) Acknowledgement
-The colorization part of our code is built upon [interactive-deep-colorization][1]
-[1]:https://github.com/junyanz/interactive-deep-colorization.
+The colorization part of our code is built upon [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization).
